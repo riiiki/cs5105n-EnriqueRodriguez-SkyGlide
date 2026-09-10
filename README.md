@@ -12,3 +12,4 @@ A 2D arcade game inspired by Flappy Bird where players control a character navig
 - Set up Godot project structure.
 - Configured Git, .gitignore, and Git LFS tracking.
 - Built initial 2D scene with player sprite placeholder.
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/9a437b9f-3f8c-465c-a683-87c777b288b0" />
